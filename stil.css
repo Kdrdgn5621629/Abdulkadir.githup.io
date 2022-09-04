@@ -1,0 +1,27 @@
+# tanım {
+kenarlık stili : oluk;
+arka plan rengi : lavanta;
+dolgu : 50 piksel 0 piksel 50 piksel 15 piksel ;
+}
+
+* {
+yazı tipi ailesi : helvetica;
+dolgu : 0 px 0 px 0 px 10 px ;
+}
+h1 { renk : koyu kayrak mavisi;
+}bir { renk : darkslategray;
+}giriş [ tür = 'metin' ] ,
+[ tür = 'kdrdgn5621@gmail.com' ] girin ,
+metin alanı {
+arka plan rengi : # d5b3ff ;
+yazı tipi ailesi : helvetica;
+}
+[ tür = 'gönder' ] girin ,
+input [ type = 'reset' ] {
+yazı tipi boyutu : 18 piksel ;
+kenarlık rengi : # d5b3ff ;
+kenarlık stili : katı;
+sınır genişliği : 2 piksel ;}
+
+a : üzerine gelin { renk : mor; metin-dekorasyon : kadir ;
+}

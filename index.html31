@@ -1,0 +1,52 @@
+<!DOCTYPE html >
+< html lang =" en " dir =" ltr " >
+< kafa >
+< meta karakter kümesi =" utf-8 " >
+< title Abdulkadir Dogan'nın > Kişisel Web Sitesi </ title >
+< link rel =" stil sayfası " href =" style.css " type =" text/css " >
+</ kafa >
+< gövde kimliği =" ust " >
+< gezinme >
+< merkez >
+< h1 style =" color:black " > Abdulkadir doğan </ h1 >
+< a href =" index.html " > Anasayfa </ a > |
+< a href =" yorum.html " > Yorum Gönderin! </ a > |
+< a href =" iletisim.html " > İletişim </ a >
+< br > < sa > < br >
+</ merkez >
+</ gezinme >
+< img src =" https://www.hizliresim.com/zeq3lix " yükseklik =" 1000 " hizalama =" sağa " >
+< p id =" tanıtım " > Merhaba! Ben Abdulkadir. Bilgisayar Mühendisliği müşteriyim ve yazılımla uğraşıyorum. Beni tanımak için aşağıya bakın. </ p >
+<br> <br> _ _ _ _
+< h1 > Ben kimim? </ h1 >
+< p > Siirt Üniversitesi Bilgisayar Mühendisliği bölümünde 2. sınıf sınıfıyım. Front-end geliştirici olarak geliştiriyorum ve iyileştirme geliştiricisi devam ediyor. Aynı Flutter'la tedavi amaçlı bu ilerlemek istiyorum. Onun zamanları bir şeyler katmak istiyorum. öğrenmeye hevesliyim. </ p >
+<br> <br> _ _ _ _
+< h1 > Deneyimlerim </ h1 >
+< ul >
+< li > Ön Uç Geliştirici </ li >
+< p > < em > Abdulkadir Medya | 2022 </ em > </ p >
+< p >-Ekip arkadaşlarla birlikte web sitesi yaptık. <br> _ _
+        -Müşterilerin web sitelerini iyileştirmek. </ p >  < br >
+< li > Kısmi Zamanlı Öğrenci </ li >
+< p > < em > Siirt Üniversitesi Bilgi İşlem | 2022 </ em > </ p >
+< p > -Öğrenci Bilgi Sistemi'ndeki teknik sorunları raporladım. <br> _ _ -Kısmi Zamanlı olarak öğrenci çalış
+</ p >
+</ ul >
+<br> <br> _ _ _ _
+< h1 > Eğitim Geçmişim </ h1 >
+< ul >
+< li > Siirt Üniversitesi | < code > devam ediyor </ code >  </ li >
+< p > < em > Bilgisayar Mühendisliği </ em > </ p >
+</ ul >
+<br> <br> _ _ _ _
+    < h1 > Başarılarım </ h1 >
+    < ul >
+    < li > Girişim Limanında Startup Weekend'de programımle beraber 1. olduk </ li > < li Gebze Oyunla > Gelecek hafta katıldık ve hiper gündelik oyunla oynadı </ li > < li Girişim Limanı'nda Netmarble'ın oyununda Hyper Jam elde edilirken iki tane. </ li > < li > Şu andada gittiğinizde seyahat sitesi projem var. </ li >
+    </ ul >
+    <br> <br> _ _ _ _
+    < h1 > Hobilerim </ h1 >
+    < p > Gezdiğim yerlerin çekmeyi, söylemeyi ve dans etmeyi çok seviyorum. Zamanda planımda planmda tablo Boş plan. </ p >
+    < br > < br > < br > < br >
+    < a href =" #ust " > Sayfa başına git </ a > </ gövde >
+    </ html >
+    
